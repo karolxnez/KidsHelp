@@ -1,0 +1,7 @@
+{
+  "name": "KidsHelper - App",
+  "description": "Transform chores into epic quests. KidsHelper gamifies responsibility with levels, rewards, and AI-powered motivation to turn 'boring' tasks into fun adventures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
